@@ -1164,6 +1164,7 @@ Stewbin
 - [Himanshu Mahaur](https://github.com/himanshumahaur)
 - [Jinxiu Liu](https://github.com/jliu100)
 - [Swatche]
+  [Annie Varnes](https://github.com/Cinderak)
 - [Anushka Banerjee](https://github.com/Anushka200310)
 - [BamjosAdeniyi](https://github.com/BamjosAdeniyi)
 - [ca999](https://github.com/ca999)
